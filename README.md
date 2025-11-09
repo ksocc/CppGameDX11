@@ -2,7 +2,7 @@
 
 **CppGameDX11** is a lightweight, open-world 3D sandbox game built in C++ using **DirectX 11**. Inspired by voxel-based building and parkour mechanics, it supports both **single-player creative mode** and **real-time multiplayer** over LAN.
 
-![image](https://github.com/ksocc/CppGameDX11/blob/main/1.png)
+![image](https://github.com/ksocc/CppGameDX11/blob/main/2.png)
 
 ## 🔧 Features
 
@@ -38,4 +38,5 @@
 - Visual Studio (C++ workload)
 - DirectX 11 SDK (built into Windows SDK)
 - `iphlpapi.lib` (for network interface detection)
+
 
