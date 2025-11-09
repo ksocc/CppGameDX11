@@ -26,7 +26,6 @@
 - **Shift** — Run  
 - **Left Click** — Break block  
 - **Right Click** — Place block  
-- **Tab** — Toggle inventory (Build mode only)  
 - **Tilde (~)** — Open console  
 - **F** — Toggle fly mode  
 - **V** — Toggle third-person view  
@@ -46,4 +45,5 @@
   <br>
   <img src="https://github.com/ksocc/CppGameDX11/blob/main/3.png" width="60%" />
 </div>
+
 
